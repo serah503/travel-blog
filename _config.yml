@@ -1,5 +1,5 @@
 title: 나의 여행 블로그
 description: GitHub Pages + Jekyll
-url: "https://serah503.github.io/travel-blog/"
+url: "https://serah503.github.io"
 baseurl: "/travel-blog"
 remote_theme: pages-themes/cayman@v0.2.0
