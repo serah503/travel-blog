@@ -2,8 +2,4 @@ title: 나의 여행 블로그
 description: GitHub Pages + Jekyll
 url: "https://serah503.github.io"
 baseurl: "/travel-blog"
-
-# 방법 B: 내장 테마 (대체 테스트)
 theme: jekyll-theme-cayman
-
-# plugins/remote_theme 항목은 제거
