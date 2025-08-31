@@ -1,4 +1,5 @@
-/_config.yml
-/index.md
-/_posts/2025-08-31-hello-world.md
-/assets/img/Users/serahchoi/Downloads
+title: 나의 여행 블로그
+description: GitHub Pages + Jekyll
+url: "https://username.github.io"
+baseurl: "/travel-blog"
+remote_theme: pages-themes/cayman@v0.2.0
